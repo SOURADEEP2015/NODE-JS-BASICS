@@ -3,7 +3,7 @@ const EventEmitter = require("events");
 const event = new EventEmitter();
 
 event.on('sayMyName', () => {
-        console.log('My name is Souradip')
+        console.log('My name is Souradip Panja')
     })
     // event.on('sayMyName', () => {
     //     console.log('My name is Amit')
